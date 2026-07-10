@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0031-next-permutation) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
