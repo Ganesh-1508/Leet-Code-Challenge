@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
