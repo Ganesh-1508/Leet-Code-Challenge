@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
