@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
