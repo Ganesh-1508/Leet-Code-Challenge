@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
