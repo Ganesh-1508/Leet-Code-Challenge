@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
 ## Counting
