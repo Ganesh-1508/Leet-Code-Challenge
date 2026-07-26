@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
