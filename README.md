@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -143,4 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0069-sqrtx) |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
