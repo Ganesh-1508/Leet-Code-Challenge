@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
