@@ -130,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
