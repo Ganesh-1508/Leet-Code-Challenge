@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
