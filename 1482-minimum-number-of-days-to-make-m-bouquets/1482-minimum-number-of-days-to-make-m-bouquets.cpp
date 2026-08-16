@@ -45,18 +45,18 @@ public:
         int n=bloomDay.size();
         int low=minNo(bloomDay);
         int high=maxNo(bloomDay);
-        int val = m*1LL *k*1LL;
+        long long val = m*1LL *k*1LL;
 
         if(val>n) return -1;
         while(low<=high)
         {
-            int mid=(low+high)/2;
+            int mid = low + (high - low) / 2;
             if(possible(bloomDay,mid,m,k)== true){
                 high=mid-1;
             } 
             else low=mid+1;
         }
-        if(low==99991) return -1;
+        //if(low==99991) return -1;
         return low;
        
     }
