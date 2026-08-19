@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0162-find-peak-element) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
