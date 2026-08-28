@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0050-powx-n) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
 ## Quicksort
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
