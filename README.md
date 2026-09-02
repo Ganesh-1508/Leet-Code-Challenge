@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -269,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
