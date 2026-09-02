@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
