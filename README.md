@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
