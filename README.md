@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
