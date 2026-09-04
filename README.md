@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
