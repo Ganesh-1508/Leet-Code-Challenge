@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
