@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
