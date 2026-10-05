@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
