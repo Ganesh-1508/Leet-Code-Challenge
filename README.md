@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0152-maximum-product-subarray) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
