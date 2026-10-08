@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0493-reverse-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
