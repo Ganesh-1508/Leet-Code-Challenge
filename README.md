@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2643-row-with-maximum-ones](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0912-sort-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
