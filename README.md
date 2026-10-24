@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh-1508/Leet-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
